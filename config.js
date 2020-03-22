@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Crypto ART Digest',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: 'Deployed on IPFS using Terminal.co',
   disqusShortname: '',
