@@ -1,13 +1,17 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage:
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Brett Shear
+Crypto art enthusiast & collector
+* Superrare: [blockchainbrett](https://superrare.co/blockchainbrett) Collection
+* Async.art: [blockchainbrett](https://async.art/artist/Blockchainbrett) Collection
+* Opensea: [blockchainbrett](https://opensea.io/accounts/0x1e341aa44c293d95d13d778492d417d1be4e63d5) Collection
+* Cryptovoxel:[Blockchainbrett Art Gallery](https://www.cryptovoxels.com/parcels/187)
+* Twitter: [@web3brett](https://twitter.com/web3brett) - Open for DMs :)
+* Telegram: [blockchainbrett](https://telegram.me/blockchainbrett)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Cofounder & COO of [Terminal](https://terminal.co) 
+* Modern web development tool for blazing fast sites on IPFS

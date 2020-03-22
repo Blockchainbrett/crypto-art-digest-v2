@@ -25,12 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Crypto ART Digest',
+    photo: '/media/CryptoDigestV2.png',
+    bio: 'Bringing you weekly highlights on the exploding crypto art space!',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'brett@cryptoartdigest.com',
+      facebook: '',
       telegram: '#',
       twitter: '#',
       github: '#',
