@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by John Doe',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  copyright: 'Deployed on IPFS using Terminal.co',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -19,10 +19,6 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Crypto ART Digest',
@@ -31,13 +27,13 @@ module.exports = {
     contacts: {
       email: 'brett@cryptoartdigest.com',
       facebook: '',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      telegram: '',
+      twitter: 'cryptoartdigest',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
