@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://cryptoartdigest.com',
   pathPrefix: '/',
   title: 'Crypto ART Digest',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: 'Deployed on IPFS using Terminal.co',
   disqusShortname: '',
   postsPerPage: 4,
