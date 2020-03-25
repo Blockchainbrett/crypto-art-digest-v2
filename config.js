@@ -8,7 +8,7 @@ module.exports = {
   copyright: 'Deployed on IPFS using Terminal.co',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-144542192-4',
+  googleAnalyticsId: 'UA-161811558-1',
   useKatex: false,
   menu: [
     {
