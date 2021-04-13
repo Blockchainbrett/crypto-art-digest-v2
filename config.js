@@ -25,7 +25,7 @@ module.exports = {
     photo: '/media/CryptoDigestV2.png',
     bio: 'Bringing you weekly highlights on the exploding crypto art space!',
     contacts: {
-      email: 'brett@cryptoartdigest.com',
+      email: 'brettharrisonshear@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'cryptoartdigest',
